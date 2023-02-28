@@ -9,6 +9,7 @@ public class Test
 		System.out.println("test");
 		System.out.println(n);
 		System.out.println("--수정--");
+	        System.out.println("--수정2--");
 	}
 
 }
